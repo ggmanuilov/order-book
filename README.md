@@ -39,7 +39,7 @@
 
 ##### Стакан заявок 
 ```
-GET http://127.1:3000/order-books/snapshot`
+GET http://127.1:3000/order-books/snapshot
 ```
 
 ##### Добавление в стакан предложения
